@@ -1,7 +1,7 @@
 ## WAR MUSIC / VIDEO PLAYER 
 
 ### Bot 
-* Bot Link:  <a href="http://t.me/TheWarBotZ/60" alt=" warbotz "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Thewarbotz-blue" /> </a>
+* Bot Link:  <a href="http://t.me/music_Desha1" alt=" warbotz "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Thewarbotz-blue" /> </a>
 
 ## 🧪 Get `SESSION_NAME` from below:
 
@@ -9,7 +9,7 @@
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/844cf4e9f50bce6044dac.png">
+  <img src="https://telegra.ph/file/8e537641cc5bfcf915c37.jpg">
 </p>
 
 ## ✨ Features
@@ -80,7 +80,7 @@ python3 main.py # run the bot.
 > veez All Devs 
 
 ## Support & Updates 📢
-<a href="https://t.me/WarbotzSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TheWarBotZ"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/music_Desha1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/music_Desha"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
